@@ -33,9 +33,6 @@ The model used in this project is a random forest classifier. It was chosen beca
 
 The performance of the model was evaluated using accuracy, precision, recall, and F1 score metrics. The results of the evaluation can be found in the notebook.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Acknowledgments
 
