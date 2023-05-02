@@ -11,8 +11,8 @@ This is a project that aims to build a credit score classification system based 
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/[username]/credit-score-classification-system.git`
-2. Install the required packages: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/Chenzhang0329/Credit_Score_Classification.git`
+2. Install the required packages
 3. Open the Jupyter Notebook file `credit_score_classification.ipynb` in your IDE.
 
 ## Usage
