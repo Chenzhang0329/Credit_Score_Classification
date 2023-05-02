@@ -1,58 +1,44 @@
-\documentclass{article}
+# Credit Score Classification System
 
-\title{Credit Score Classification System}
-\author{Your Name}
+This is a project that aims to build a credit score classification system based on a dataset of customer information. The system is able to predict the creditworthiness of customers and classify them into different categories based on their credit score.
 
-\begin{document}
+## Getting Started
 
-\maketitle
+### Prerequisites
 
-\section{Getting Started}
+- Python 3
+- Jupyter Notebook or another Python IDE
 
-\subsection{Prerequisites}
+### Installation
 
-\begin{itemize}
-    \item Python 3
-    \item Jupyter Notebook or another Python IDE
-\end{itemize}
+1. Clone the repository: `git clone https://github.com/[username]/credit-score-classification-system.git`
+2. Install the required packages: `pip install -r requirements.txt`
+3. Open the Jupyter Notebook file `credit_score_classification.ipynb` in your IDE.
 
-\subsection{Installation}
+## Usage
 
-\begin{enumerate}
-    \item Clone the repository: \verb|git clone https://github.com/[username]/credit-score-classification-system.git|
-    \item Install the required packages: \verb|pip install -r requirements.txt|
-    \item Open the Jupyter Notebook file \verb|credit_score_classification.ipynb| in your IDE.
-\end{enumerate}
+1. Open the Jupyter Notebook file `credit_score_classification.ipynb` in your IDE.
+2. Run the code cells in the notebook to load and preprocess the data, train the model, and evaluate the performance of the model.
+3. Once the model has been trained, you can use it to predict the creditworthiness of new customers.
 
-\section{Usage}
+## Dataset
 
-\begin{enumerate}
-    \item Open the Jupyter Notebook file \verb|credit_score_classification.ipynb| in your IDE.
-    \item Run the code cells in the notebook to load and preprocess the data, train the model, and evaluate the performance of the model.
-    \item Once the model has been trained, you can use it to predict the creditworthiness of new customers.
-\end{enumerate}
+The dataset used in this project contains customer information such as age, income, and loan amount, as well as their credit score. The dataset is located in the file `credit_data.csv`.
 
-\section{Dataset}
-
-The dataset used in this project contains customer information such as age, income, and loan amount, as well as their credit score. The dataset is located in the file \verb|credit_data.csv|.
-
-\section{Model}
+## Model
 
 The model used in this project is a random forest classifier. It was chosen because it is well-suited for classification tasks and is able to handle non-linear relationships between the features and the target variable.
 
-\section{Evaluation}
+## Evaluation
 
 The performance of the model was evaluated using accuracy, precision, recall, and F1 score metrics. The results of the evaluation can be found in the notebook.
 
-\section{License}
+## License
 
-This project is licensed under the MIT License - see the \verb|LICENSE.md| file for details.
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
-\section{Acknowledgments}
+## Acknowledgments
 
-\begin{itemize}
-    \item The dataset used in this project was obtained from \verb|Kaggle|, a platform for data science competitions and datasets.
-    \item This project was inspired by the work of many data scientists and machine learning practitioners who have developed credit scoring models and shared their insights online.
-\end{itemize}
+- The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/), a platform for data science competitions and datasets.
+- This project was inspired by the work of many data scientists and machine learning practitioners who have developed credit scoring models and shared their insights online.
 
-\end{document}
