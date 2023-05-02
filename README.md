@@ -33,7 +33,6 @@ The model used in this project is a random forest classifier. It was chosen beca
 
 The performance of the model was evaluated using accuracy, precision, recall, and F1 score metrics. The results of the evaluation can be found in the notebook.
 
-
 ## Acknowledgments
 
 - The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/), a platform for data science competitions and datasets.
