@@ -13,11 +13,11 @@ This is a project that aims to build a credit score classification system based 
 
 1. Clone the repository: `git clone https://github.com/Chenzhang0329/Credit_Score_Classification.git`
 2. Install the required packages
-3. Open the Jupyter Notebook file `credit_score_classification.ipynb` in your IDE.
+3. Open the Jupyter Notebook file `6100_final_project.ipynb` in your IDE.
 
 ## Usage
 
-1. Open the Jupyter Notebook file `credit_score_classification.ipynb` in your IDE.
+1. Open the Jupyter Notebook file `6100_final_project.ipynb` in your IDE.
 2. Run the code cells in the notebook to load and preprocess the data, train the model, and evaluate the performance of the model.
 3. Once the model has been trained, you can use it to predict the creditworthiness of new customers.
 
